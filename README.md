@@ -2,8 +2,8 @@
 
 A Python-based tool to scan web applications for common vulnerabilities like:
 
-- ✅ Cross-Site Scripting (XSS)
-- ✅ SQL Injection (SQLi)
+-  Cross-Site Scripting (XSS)
+-  SQL Injection (SQLi)
 
 Built as part of the Elevate Labs Cybersecurity Internship (June 2025), this project automates the process of finding insecure input fields in websites and tests them with basic payloads.
 
